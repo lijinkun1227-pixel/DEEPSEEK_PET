@@ -1,0 +1,36 @@
+{
+  "normal": {
+    "frames": 6,
+    "canvas": [
+      512,
+      512
+    ],
+    "height": 440,
+    "baseline": 492,
+    "durations_ms": [
+      180,
+      180,
+      180,
+      180,
+      180,
+      3180
+    ]
+  },
+  "angry": {
+    "frames": 6,
+    "canvas": [
+      512,
+      512
+    ],
+    "height": 440,
+    "baseline": 492,
+    "durations_ms": [
+      180,
+      180,
+      180,
+      180,
+      180,
+      780
+    ]
+  }
+}

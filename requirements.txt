@@ -1,0 +1,5 @@
+# 兼容入口：不使用 uv 时用（pip install -r）。依赖的事实源是 pyproject.toml。
+
+PySide6>=6.7,<7
+Pillow>=10.0,<12
+markdown-it-py>=3,<5

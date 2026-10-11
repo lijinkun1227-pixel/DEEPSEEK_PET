@@ -1,0 +1,14 @@
+{
+  "api_key": "",
+  "base_url": "https://api.deepseek.com",
+  "model": "deepseek-flash",
+  "api_enabled": false,
+  "reminder_enabled": true,
+  "chat_enabled": false,
+  "startup_enabled": true,
+  "reminder_interval_minutes": 30,
+  "chat_interval_minutes": 15,
+  "startup_reminder_seconds": 3,
+  "pet_name": "Deepseek",
+  "personality": "顽劣和温柔并存，带一点傲娇"
+}
